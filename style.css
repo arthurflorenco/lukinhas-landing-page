@@ -1,0 +1,25 @@
+/***** General **********/
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+
+h1,
+.lk,
+h2 {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.social-link {
+    text-decoration: none;
+    color: darkgrey;
+}
+
+li {
+    list-style: none;
+}
